@@ -1,7 +1,7 @@
 ## 👋 Hi man, I'm Arthur
 
 🎓 **Técnico de Desenvolvimento de Sistemas @ Senac RS EAD** 
-🧠 **Full-Stack Developer** with a huge passion for  & system development  
+🧠 **Full-Stack Developer** with a huge passion for Math Modeling and practical code & system development  
 🌍 **Based in São Paulo, Brazil**  
 💻 I work with BackEnd System and coding development based on math models
 
