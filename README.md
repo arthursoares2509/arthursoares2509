@@ -7,7 +7,7 @@
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Technological tools used on my Stack Curriculum
 ```
 💻 Languages:            Java • Python • Javascript • C++ • C • 
 ⚙️ Frameworks & Tools:   Node.js • Git
