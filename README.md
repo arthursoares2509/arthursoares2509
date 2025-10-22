@@ -87,6 +87,12 @@
 <br/>
 <br/>
 
+---
+
+### More about me and my work
+
+Coming Later
+
 
 ---
 
