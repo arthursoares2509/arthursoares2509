@@ -91,7 +91,7 @@
 
 ### More about me and my work
 
-Coming Later
+Coming soon...
 
 
 ---
