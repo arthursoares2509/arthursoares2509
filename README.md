@@ -72,7 +72,6 @@
     title="github" 
     width="30px" 
     style="padding-right: 10px;" 
-    style="color: white;"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
     />
 <img 
