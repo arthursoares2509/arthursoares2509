@@ -9,29 +9,30 @@
 
 ### 🧰 Technological tools used on my Stack Curriculum
 
+
+<img 
+    align="left" 
+    alt="VSCode"
+    title="VSCode" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"          
+/>
 <img 
     align="left" 
     alt="Java"
     title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"                    
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
+    />
 <img 
     align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
+    alt="MySQL"
+    title="MySQL" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="Node.JS"
-    title="Node.JS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"          
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"     
 />
 <img 
     align="left" 
@@ -47,15 +48,23 @@
     title="CSS" 
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"                    
-/>
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+    />
 <img 
     align="left" 
-    alt="git"
-    title="git" 
+    alt="JavaScript"
+    title="JavaScript" 
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"          
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
+    />
+<img 
+    align="left" 
+    alt="Node.JS"
+    title="Node.JS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"          
 />
 <img 
     align="left" 
@@ -63,24 +72,17 @@
     title="github" 
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"                   
-/>
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    />
 <img 
     align="left" 
-    alt="MySQL"
-    title="MySQL" 
+    alt="git"
+    title="git" 
     width="30px" 
     style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"                             
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                        
 />
-<img 
-    align="left" 
-    alt="VSCode"
-    title="VSCode" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"          
-/>
+
 
 <br/>
 <br/>
