@@ -105,7 +105,8 @@ Want to talk about coding, collaboration on projects, or just send a message?
 Feel free to reach out without apprehention!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-900a53297)  
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hjharthur497@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](mailto:hjharthur497@gmail.com)
+
 
 
 ---
