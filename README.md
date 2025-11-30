@@ -91,15 +91,11 @@
 
 ### More about me and my work
 
-Coming soon...
+I'm a Software developer with two years of experience in distributed systems and microservices, specializing in back-end development, process automation, and scalable system design. Experienced in designing and managing relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB), and in developing APIs with Node.js and Next.js for data-intensive applications.
 
+Hands-on experience includes web and desktop development, system administration on Windows and Linux, server management, and optimization of legacy systems. Familiar with agile methodologies, integrated development platforms, and version control through Git. Practical knowledge of front-end development supports seamless integration of algorithms into complete applications.
 
----
-
-### 📈 GitHub Stats
-
-![Arthur's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthursoares2509&show_icons=true&theme=radical&hide_rank=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthursoares2509&layout=compact&theme=radical)
+Projects have focused on improving system performance, automating processes, and delivering scalable solutions, combining academic training with real-world application. Contributions span API integration, database modeling, and documentation of complex systems to support collaborative development and operational efficiency.
 
 ---
 
