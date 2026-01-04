@@ -106,6 +106,9 @@ Feel free to reach out without apprehention!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-900a53297)  
 
+### A little more about my journey
 
+Coming soon
 
 ---
+###
