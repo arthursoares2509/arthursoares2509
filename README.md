@@ -1,6 +1,6 @@
 ## 👋 Hi man, I'm Arthur
 
-🎓 **Técnico de Desenvolvimento de Sistemas @ Senac RS EAD** 
+🎓 **Systems Development Technician @ Senac RS EAD** & **University Computer Science Student**
 🧠 **Full-Stack Developer**   
 🌍 **live in São Paulo, Brazil**  
 💻 I work with BackEnd System and coding development based on math models
