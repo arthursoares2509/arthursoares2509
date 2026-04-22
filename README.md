@@ -108,7 +108,7 @@ Feel free to reach out without apprehention!
 
 ### A little more about my journey
 
-Coming soon
+I’ve been building my path through technology by combining structured study with constant hands-on work. Alongside pursuing three degrees — Artificial Intelligence, Computer Science, and Systems Analysis and Development — I stay deeply involved in software projects that challenge how I think and build. My focus is on backend systems, scalability, and turning complex ideas into practical solutions. I’m always looking for opportunities to apply what I know in real environments, collaborate, and keep evolving through practical experience.
 
 ---
 ###
