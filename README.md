@@ -1,38 +1,52 @@
-## Hi, I'm Arthur
+## 👋 Hi, I'm Arthur
 
-**Software Engineer | Backend & Systems Architecture**  
-📍 São Paulo, Brazil
-
-Building scalable backend architectures, high-throughput distributed systems, and data-intensive applications backed by mathematical modeling. Focused on system reliability, database design, and process automation.
+🎓 **Systems Development Specialist @ Senac RS** & **Computer Science Undergraduate**
+🧠 **Full-Stack & Systems Engineer**   
+🌍 **Based in São Paulo, Brazil**  
+💻 **Specialized in Core Backend Architecture, Automation, and Mathematical Modeling**
 
 ---
 
-### Tech Stack & Tooling
+### 🧰 Technical Stack & Development Suite
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="35" height="35"/>
+  <img align="left" alt="VSCode" title="VSCode" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img align="left" alt="Java" title="Java" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="left" alt="CSS" title="CSS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="left" alt="Node.JS" title="Node.JS" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img align="left" alt="GitHub" title="GitHub" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </p>
 
----
-
-### Core Competencies & Architecture
-
-Software Engineer with experience in designing and deploying scalable backend services, microservices architectures, and distributed systems. Specialized in relational (MySQL, PostgreSQL) and NoSQL (MongoDB) data modeling, custom API development using Node.js/Next.js, and backend process automation.
-
-* **Systems Engineering:** End-to-end web and desktop application development, legacy code refactoring, system performance tuning, and server management across Windows and Linux environments.
-* **Database & API Architecture:** Schema optimization, transactional integrity, and efficient REST API integrations for data-heavy platforms.
-* **Operational Excellence:** Applied engineering principles derived from rigorous academic training in Computer Science, Systems Analysis, and AI to solve complex algorithmic and infrastructure challenges.
+<br/>
+<br/>
 
 ---
 
-### Contact & Connect
+### About My Architecture & Engineering Practice
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-900a53297)
+Software Engineer with dedicated experience in distributed systems and microservices architectures, specializing in backend development, workflow automation, and high-availability system design. Proficient in architecting and optimizing relational databases (MySQL, PostgreSQL) alongside NoSQL solutions (MongoDB), as well as engineering robust APIs via Node.js and Next.js tailored for data-heavy applications.
+
+Possess comprehensive, end-to-end expertise spanning web and desktop environments, Linux/Windows system administration, server provisioning, and legacy system refactoring. Proficient in applying Agile frameworks, integrated development workflows, and precise version control via Git. Practical front-end competency ensures seamless integration between mathematical logic, core algorithms, and client-facing applications.
+
+Project track record is defined by performance engineering, routine automation, and system scalability — fusing high-level academic theory with real-world execution. Core contributions focus on complex API integration, relational/non-relational database modeling, and comprehensive system documentation to guarantee operational efficiency and technical maintainability.
+
+---
+
+### 📫 Get in Touch
+
+Interested in architecture discussions, technical collaboration, or project inquiries?  
+Feel free to reach out directly.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-900a53297)  
+
+---
+
+### My Technical Background & Evolution
+
+I build my trajectory in technology by pairing high-level computer science fundamentals with constant, practical execution. Parallel to my formal academic pursuits — covering Artificial Intelligence, Computer Science, and Systems Analysis — I actively engineer systems designed to address complex algorithmic and structural constraints. My core focus centers on scalable backend architecture, structural reliability, and transforming intricate logical requirements into production-ready software solutions.
+
+---
