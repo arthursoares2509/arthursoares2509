@@ -1,114 +1,38 @@
-## 👋 Hi man, I'm Arthur
+## Hi, I'm Arthur
 
-🎓 **Systems Development Technician @ Senac RS EAD** & **University Computer Science Student**
-🧠 **Full-Stack Developer**   
-🌍 **live in São Paulo, Brazil**  
-💻 I work with BackEnd System and coding development based on math models
+**Software Engineer | Backend & Systems Architecture**  
+📍 São Paulo, Brazil
 
----
-
-### 🧰 Technological tools used on my Stack Curriculum
-
-
-<img 
-    align="left" 
-    alt="VSCode"
-    title="VSCode" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-    />
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"     
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="CSS"
-    title="CSS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-    />
-<img 
-    align="left" 
-    alt="JavaScript"
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-    />
-<img 
-    align="left" 
-    alt="Node.JS"
-    title="Node.JS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"          
-/>
-<img 
-    align="left" 
-    alt="github"
-    title="github" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-    />
-<img 
-    align="left" 
-    alt="git"
-    title="git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"                        
-/>
-
-
-<br/>
-<br/>
+Building scalable backend architectures, high-throughput distributed systems, and data-intensive applications backed by mathematical modeling. Focused on system reliability, database design, and process automation.
 
 ---
 
-### More about me and my work
+### Tech Stack & Tooling
 
-I'm a Software developer with two years of experience in distributed systems and microservices, specializing in back-end development, process automation, and scalable system design. Experienced in designing and managing relational databases (MySQL, PostgreSQL) and NoSQL databases (MongoDB), and in developing APIs with Node.js and Next.js for data-intensive applications.
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" title="Git" alt="Git" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="35" height="35"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="35" height="35"/>
+</p>
 
-Hands-on experience includes web and desktop development, system administration on Windows and Linux, server management, and optimization of legacy systems. Familiar with agile methodologies, integrated development platforms, and version control through Git. Practical knowledge of front-end development supports seamless integration of algorithms into complete applications.
+---
 
-Projects have focused on improving system performance, automating processes, and delivering scalable solutions, combining academic training with real-world application. Contributions span API integration, database modeling, and documentation of complex systems to support collaborative development and operational efficiency.
+### Core Competencies & Architecture
+
+Software Engineer with experience in designing and deploying scalable backend services, microservices architectures, and distributed systems. Specialized in relational (MySQL, PostgreSQL) and NoSQL (MongoDB) data modeling, custom API development using Node.js/Next.js, and backend process automation.
+
+* **Systems Engineering:** End-to-end web and desktop application development, legacy code refactoring, system performance tuning, and server management across Windows and Linux environments.
+* **Database & API Architecture:** Schema optimization, transactional integrity, and efficient REST API integrations for data-heavy platforms.
+* **Operational Excellence:** Applied engineering principles derived from rigorous academic training in Computer Science, Systems Analysis, and AI to solve complex algorithmic and infrastructure challenges.
 
 ---
 
-### 📫 Get in Touch
+### Contact & Connect
 
-Want to talk about coding, collaboration on projects, or just send a message?  
-Feel free to reach out without apprehention!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-900a53297)  
-
-### A little more about my journey
-
-I’ve been building my path through technology by combining structured study with constant hands-on work. Alongside pursuing three degrees — Artificial Intelligence, Computer Science, and Systems Analysis and Development — I stay deeply involved in software projects that challenge how I think and build. My focus is on backend systems, scalability, and turning complex ideas into practical solutions. I’m always looking for opportunities to apply what I know in real environments, collaborate, and keep evolving through practical experience.
-
----
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-900a53297)
